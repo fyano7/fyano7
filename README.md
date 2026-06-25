@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&speed=45&color=FFFFFF&width=300&center=true&lines=Be+Known+Be+Better" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&speed=43&color=FFFFFF&width=300&center=true&lines=Be+Known+Be+Better" alt="Typing Effect" />
 </p>
 
 ## About Me
