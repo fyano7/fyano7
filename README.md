@@ -62,3 +62,7 @@ Beyond just writing code, I am deeply interested in the entire product developme
 <p align="center">
   <i>"You're welcome."</i>
 </p>
+
+<div style="margin-left: -50px; margin-right: -50px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d2ff,100:3a7bd5&height=100&section=footer" width="1000" />
+</div>
