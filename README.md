@@ -26,7 +26,6 @@ Beyond just writing code, I am deeply interested in the entire product developme
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="Postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" height="50" alt="Supabase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="50" height="50" alt="Firebase" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub" />
@@ -46,7 +45,7 @@ Beyond just writing code, I am deeply interested in the entire product developme
 - **Tertik:** A community complaint platform (Sistem Pengaduan Masyarakat) designed to bridge the gap between citizens and authorities.
 
 ## Learning Path
-<p align="center">
+<p align="alignleft">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50" alt="Flutter" />
 </p>
@@ -54,6 +53,7 @@ Beyond just writing code, I am deeply interested in the entire product developme
 ## Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" />
+&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
 
