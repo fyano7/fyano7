@@ -19,22 +19,15 @@ Beyond just writing code, I am deeply interested in the entire product developme
 ---
 
 ## 💻 Tech Stack
-![Go](https://img.shields.io/badge/-00ADD8?style=flat&logo=go&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/-007ACC?style=flat&logo=typescript&logoColor=white) 
-![Python](https://img.shields.io/badge/-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/-323330?style=flat&logo=javascript&logoColor=F7DF1E) 
-![Express.js](https://img.shields.io/badge/-404d59?style=flat&logo=express&logoColor=61DAFB) 
-![Expo](https://img.shields.io/badge/-1C1E24?style=flat&logo=expo&logoColor=D04A37) 
-![JWT](https://img.shields.io/badge/-000000?style=flat&logo=JSON-web-tokens&logoColor=white) 
-![Next JS](https://img.shields.io/badge/-000000?style=flat&logo=next.js&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/-20232a?style=flat&logo=react&logoColor=61DAFB) 
-![React](https://img.shields.io/badge/-20232a?style=flat&logo=react&logoColor=61DAFB) 
-![TailwindCSS](https://img.shields.io/badge/-38B2AC?style=flat&logo=tailwind-css&logoColor=white) 
-![Supabase](https://img.shields.io/badge/-3ECF8E?style=flat&logo=supabase&logoColor=white) 
-![Postgres](https://img.shields.io/badge/-316192?style=flat&logo=postgresql&logoColor=white) 
-![Figma](https://img.shields.io/badge/-F24E1E?style=flat&logo=figma&logoColor=white)
-
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
+</p>
 ---
 
 ## 🚀 Featured Projects
