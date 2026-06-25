@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://64.media.tumblr.com/0636337d6c8c26f839403f00a6c843da/98d3a7792d861906-3c/s540x810/c276343cbd6d9a411d0357f9c773430a3e54ea1e.gif" width="600" />
+  <img src="https://media1.tenor.com/m/MMsxmalGh1kAAAAC/witch-hat-atelier-qifrey.gif" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&color=FFFFFF&width=300&lines=Be+Known;Be+Better" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&color=FFFFFF&width=300&lines=Be+Known+Be+Better" alt="Typing Effect" />
 </p>
 
 ## About Me
@@ -20,34 +20,46 @@ Beyond just writing code, I am deeply interested in the entire product developme
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" alt="Tailwind" />
+  <br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="Postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" />
 </p>
----
+
+<p align="center">
+  <i>"The more I learn, the more I realize how much I don't know."</i>
+</p>
 
 ## 🚀 Featured Projects
-
 - **Lumeria:** A custom e-commerce platform for food products.  
-  [🔗 Live Demo](https://lumeria.vercel.app/) | [💻 Source Code](https://github.com/fyano7/Lumeri---Web-Produk)
+  [🔗 Live Preview](https://lumeria.vercel.app/) | [Source Code](https://github.com/fyano7/Lumeri---Web-Produk)
 
 - **SMK Taruna Bhakti Library System:** Digital transformation project to automate manual library processes.
 
 - **Tertik:** A community complaint platform (Sistem Pengaduan Masyarakat) designed to bridge the gap between citizens and authorities.
 
 ---
+## Learning Path
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
+</p>
 
-## 📈 Learning Path
-- ⏳ **Laravel** ![Laravel](https://img.shields.io/badge/-FF2D20?style=flat&logo=laravel&logoColor=white)
-- ⏳ **Flutter** ![Flutter](https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
