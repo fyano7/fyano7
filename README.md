@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/MMsxmalGh1kAAAAC/witch-hat-atelier-qifrey.gif" width="600" />
+  <img src="https://64.media.tumblr.com/0636337d6c8c26f839403f00a6c843da/98d3a7792d861906-3c/s540x810/c276343cbd6d9a411d0357f9c773430a3e54ea1e.gif" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&color=FFFFFF&width=300&lines=Be+Known+Be+Better" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1500&color=FFFFFF&width=300&lines=Be+Known;Be+Better" alt="Typing Effect" />
 </p>
 
 ## About Me
@@ -11,12 +11,8 @@ Hi, I'm Farel! A dedicated Full-Stack Developer and student at SMK Taruna Bhakti
 
 Beyond just writing code, I am deeply interested in the entire product development lifecycle—from conceptualizing system architecture to deploying robust applications that solve real-world problems. Whether it's optimizing database schemas or crafting intuitive user interfaces, I am committed to continuous learning and applying modern best practices to everything I build. I believe that technology is a powerful tool for transformation, and I am excited to keep pushing the boundaries of what I can create.
 
----
-
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/-E4405F?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/farelalftir_)
-
----
 
 ## 💻 Tech Stack
 <p align="center">
@@ -46,20 +42,19 @@ Beyond just writing code, I am deeply interested in the entire product developme
 
 ## 🚀 Featured Projects
 - **Lumeria:** A custom e-commerce platform for food products.  
-  [🔗 Live Preview](https://lumeria.vercel.app/) | [Source Code](https://github.com/fyano7/Lumeri---Web-Produk)
+  [🔗 Live Demo](https://lumeria.vercel.app/) | [💻 Source Code](https://github.com/fyano7/Lumeri---Web-Produk)
 
 - **SMK Taruna Bhakti Library System:** Digital transformation project to automate manual library processes.
 
 - **Tertik:** A community complaint platform (Sistem Pengaduan Masyarakat) designed to bridge the gap between citizens and authorities.
 
----
-## Learning Path
+## 📈 Learning Path
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter" />
 </p>
 
-## Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=fyano7&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
